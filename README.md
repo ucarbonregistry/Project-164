@@ -7,6 +7,24 @@ and operation of a 15 wind turbine generators (15 * 0.8 MW) having cumulative ca
 MW, manufactured and supplied by Enercon (India) Limited in district Satara of the state of
 Maharastra, India.'
 
+The proposed project activity with title under UCR “12 MW Small-Scale Bundled Wind Power
+Project by M/s Shah Promoters and Developers.” (Herein after called as project proponent ‘PP’) in
+Maharashtra is a grid-connected renewable power generation activity which incorporates installation
+and operation of 15 Wind Turbine Generators (WTGs) having capacity 12 MW, manufactured and
+supplied by Enercon (India) Limited. in the district Satara of the state of Maharashtra in India. The
+project is an operational activity with continuous reduction of GHG, currently being applied under
+“Universal Carbon Registry” (UCR).
+
+
+The project activity aims to harness the kinetic energy of wind (a renewable source) to generate
+electricity. The net generated electricity from the project activity is being sold through NEWNE grid
+as Power Purchase Agreement signed between Maharashtra State Electricity Distribution Company
+Ltd (MSEDCL). i.e., state discom. Currently, the NEWNE grid is connected to large numbers of
+fossil fuel-based power plants. Hence, project activity is displacing the gross electricity generation
+i.e., 1,90,554 MWh from the NEWNE grid, which otherwise would have been imported from the
+NEWNE grid.
+
+
 ________________________________
 --WTG------ Latitude------Longitude------Village----Taluka----District
 ______________________________________________________
