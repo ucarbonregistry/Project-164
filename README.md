@@ -16,11 +16,11 @@ SPDCV-23 17°47’6.876” N 74°07’34.428” E Dhumalwadi Koregaon Satara
 
 SPDCV-22 17°47’10.29” N 74°07’33.318” E Dhumalwadi Koregaon Satara
 
-SPDCV-21 17°47’27.45” N 74°07’31.26” E Kolvadi Koregaon Satara
+SPDCV-21 17°47’27.45” N 74°07’31.26” E Kolvadi ----Koregaon Satara
 
-SPDCV-20 17°47'31"N 74°7'30"E Kolvadi Koregaon Satara
+SPDCV-20 17°47'31"N 74°7'30"E ---------Kolvadi ----Koregaon Satara
 
-SPDCV-19 17°47'36.9"N 74°7'32.736"E Ambewade (K) Koregaon Satara
+SPDCV-19 17°47'36.9"N 74°7'32.736"E ---Ambewade (K) -Koregaon Satara
 
 SPDCV-18 17°47'40.71"N 74°7'33.69"E Ambewade (K) Koregaon Satara
 
