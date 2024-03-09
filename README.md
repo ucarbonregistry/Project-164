@@ -69,3 +69,57 @@ Vintage Year: 2013
 
 Quantity: 19327
 _______________
+Serial Number: 0001-019328-037269-UCR-CoU-IN-164-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 17942
+_________________
+Serial Number: 0001-037270-054943-UCR-CoU-IN-164-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 17674
+_______________
+Serial Number: 0001-054944-069291-UCR-CoU-IN-164-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 14348
+___________________
+Serial Number: 0001-069292-085513-UCR-CoU-IN-164-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 16222
+________________
+Serial Number: 0001-085514-102949-UCR-CoU-IN-164-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 17436
+________________________
+Serial Number: 0001-102950-120817-UCR-CoU-IN-164-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 17868
+___________________
+Serial Number: 0001-120818-136404-UCR-CoU-IN-164-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 15587
+____________________
+Serial Number: 0001-136405-153741-UCR-CoU-IN-164-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 17337
+_________________
+Serial Number: 0001-153742-171333-UCR-CoU-IN-164-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 17592
+
