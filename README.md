@@ -8,7 +8,7 @@ MW, manufactured and supplied by Enercon (India) Limited in district Satara of t
 Maharastra, India.'
 
 
-WTG----- Latitude----  Longitude----- Village-----Taluka----District
+--WTG------ Latitude------Longitude------Village----Taluka----District
 ______________________________________________________
 SPDCV-24 17°47’3.522” N 74°07’36.108” E Dhumalwadi Koregaon Satara
 
